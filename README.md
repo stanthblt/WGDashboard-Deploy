@@ -33,7 +33,7 @@ sudo usermod -aG wheel vpn
 
 4.  Clone ce dépôt ou transfère ton script d’installation sur le serveur :
 ```bash
-git clone https://github.com/example/example.git && cd example
+git clone https://github.com/stanthblt/WGDashboard-Deploy.git && cd WGDashboard-Deploy
 ```
 
 5.  Rends ton script exécutable :
