@@ -110,7 +110,7 @@ sudo wg show
     
 -   WireGuard : [https://www.wireguard.com/](https://www.wireguard.com/)
 
-## Attribution demandée
+## 📝 Attribution demandée
 
 Ce script est sous licence MIT et peut être utilisé librement.
 Cependant, je te serais reconnaissant·e de mentionner clairement l’auteur (Stanislas Thabault) dans tout projet ou documentation utilisant ce script, afin de respecter le travail fourni.
