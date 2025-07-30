@@ -109,3 +109,9 @@ sudo wg show
 -   WGDashboard : [https://github.com/donaldzou/WGDashboard](https://github.com/donaldzou/WGDashboard)
     
 -   WireGuard : [https://www.wireguard.com/](https://www.wireguard.com/)
+
+## Attribution demandée
+
+Ce script est sous licence MIT et peut être utilisé librement.
+Cependant, je te serais reconnaissant·e de mentionner clairement l’auteur (Stanislas Thabault) dans tout projet ou documentation utilisant ce script, afin de respecter le travail fourni.
+Merci de ta compréhension et bonne utilisation !
